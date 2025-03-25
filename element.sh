@@ -18,3 +18,4 @@ else
   done
 fi
 Some improvements
+Update script comments
